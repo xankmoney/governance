@@ -30,7 +30,7 @@ Our septic system is broken. We are mixing our manure, which is all-natural, wit
 
 
 
-## Article II. 편견 Discrimination Clause
+## Article. II. 편견 Discrimination Clause
 
 Discrimination is the root cause of why we go to war with each other. We shall accept each other for whom we are instead of resorting to blind discrimination. Therefore, we shall foster cultural exchange to break down barriers and prevent war.
 
@@ -54,7 +54,7 @@ No matter whom you choose to be or you choose to love, that shall not be the yar
 
 
 
-## Article III. 탄압 Oppression Clause
+## Article. III. 탄압 Oppression Clause
 
 One human being shall not oppress another human being. No matter what relationship we are in with someone else, we shall treat each other with dignity and respect. We shall follow the golden rule and treat each other how we want to be treated.
 
@@ -78,7 +78,7 @@ Systemic corruption is rampant in all walks of life, from the halls of Congress 
 
 
 
-## Article IV. 소비 Consumption Clause
+## Article. IV. 소비 Consumption Clause
 
 90% of the world’s population growth has happened over the last 100 years. At this rate, we cannot continue to produce and consume as we have due to the unsustainability of our current consumption habits. We shall aim to reduce our consumption drastically. 
 
@@ -102,7 +102,7 @@ Food stuck on the shelves of grocery stores, leftover banchan (side dishes) at r
 
 
 
-## Article V. 지속가능 개발 목표 Sustainable Development Goals
+## Article. V. 지속가능 개발 목표 Sustainable Development Goals
 
 The Sustainable Development Goals are a UN Initiative. We believe that the mass adoption of Xank the cryptocurrency will yield better resource allocation throughout the world as the above articles are enforced. This will most likely solve many of the UN SDGs listed below, but if the SDGs are not naturally met, the following is the order of importance in which we shall fund efforts for UN SDGs.
 
