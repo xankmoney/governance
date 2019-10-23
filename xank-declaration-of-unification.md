@@ -24,4 +24,8 @@ We have enough resources to feed seven billion people on this planet, but we are
 
 *To be unified, we must take action.* We must stop feeding the bilateral cartels of the world’s governments and corporations by exchanging our fiat money for cryptocurrencies to virtually immigrate to a new digital native economy where the world is not fragmented into two hundred nations but exists as a single unified world. This is an immigration that only you can choose to do. While we did not choose where we were born, we can now make the decision to fight for a unified Earth. 
 
+---
+
+
+
 Come, join us.
