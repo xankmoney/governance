@@ -212,4 +212,4 @@ We shall work hand in hand with the United Nations and other organizations aroun
 
 
 
-We recognize that we need to survive as an economy first and foremost, as taught by the game of Go that is expressed in Korean as 아생타살(我生他杀) before we can help realize the foregoing articles in our constitution. Therefore, any traditional efforts such as marketing, promotion, and development of the Xank ecosystem will always come first before these articles since they are related to our very survival.
+We recognize that we need to survive as an economy first and foremost, as taught by the game of Go that is expressed in Korean as 아생타살(我生他杀) before we can help realize the foregoing articles in our constitution. Therefore, any traditional efforts such as marketing, promotion, adoption, and software development of the Xank ecosystem will always come first before these articles since they are related to our very survival.
