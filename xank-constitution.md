@@ -78,7 +78,31 @@ Systemic corruption is rampant in all walks of life, from the halls of Congress 
 
 
 
-## Article. IV. Consumption Clause
+## Article. IV. Abuse Clause
+
+Today, more livestock and pets live among us than the world's human population. While abuse to humans is bad, abuse to animals is often worse. We oppose abuse of any kind and will try our best to abolish it.
+
+
+
+#### Section. 1. Human
+
+We are leaving too many children in foster homes. Even though they don't share the same bloodline, they shouldn't be abused. And if we give a child the gift of loving parents, we can make him or her a great member of our society.
+
+
+
+#### Section. 2. Animal
+
+We are abandoning too many pets. Animal factories to satisfy human desires, not for the meat consumption must be regulated, and every effort must be made to ensure the quality protection and adoption of abandoned pets.
+
+
+
+#### Section. 3. Slaughter
+
+Even if it’s for harvesting meat, animals must not be abused. The dignity of all living beings must be preserved, and efforts must be made to maintain a clean environment and painless slaughter until their death.
+
+
+
+## Article. V. Consumption Clause
 
 90% of the world’s population growth has happened over the last 100 years. At this rate, we cannot continue to produce and consume as we have due to the unsustainability of our current consumption habits. We shall aim to reduce our consumption drastically. 
 
@@ -102,7 +126,7 @@ Food stuck on the shelves of grocery stores, leftover banchan (side dishes) at r
 
 
 
-## Article. V. Sustainable Development Goals
+## Article. VI. Sustainable Development Goals
 
 The Sustainable Development Goals are a UN Initiative. We believe that the mass adoption of Xank the cryptocurrency will yield better resource allocation throughout the world as the above articles are enforced. This will most likely solve many of the UN SDGs listed below, but if the SDGs are not naturally met, the following is the order of importance in which we shall fund efforts for UN SDGs.
 
