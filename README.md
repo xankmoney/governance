@@ -1,5 +1,7 @@
 # Governance
 
+Why Xank? The direction of Xank governance.
+
 EN
 
 ## Xank's Founding Documents
