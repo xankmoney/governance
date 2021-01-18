@@ -1,6 +1,6 @@
 # Governance
 
-The world's first idea meritocracy governance in a cryptocurrency.
+Xank Governance: Inspired by Bridgewater’s Meritocracy System
 
 EN
 
