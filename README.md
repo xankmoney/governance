@@ -1,6 +1,6 @@
 # Governance
 
-Why Xank? The direction of Xank governance.
+The world's first idea meritocracy governance in a cryptocurrency.
 
 EN
 
