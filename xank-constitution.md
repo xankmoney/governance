@@ -114,7 +114,7 @@ We are throwing away much of what we buy in very short periods without properly 
 
 
 
-#### Section. 2. Big houses
+#### Section. 2. Big Houses
 
 The house sizes of developed countries are ever-expanding. We do not need houses that are 200 square meters and bigger to live comfortably. Most of us can do fine within houses that are smaller than 100 square meters. The tiny house movement is a great trend towards this, and we shall support the movement for smaller houses.
 
