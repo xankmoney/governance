@@ -8,7 +8,7 @@ We the People of the Earth, in Order to maintain a sustainable Planet, establish
 
 ## Article. I. Pollution Clause
 
-Pollution is the biggest problem facing humanity right now. With over 7 billion people on this planet, the pollution problem is getting worse over time. We shall, at all costs, endeavor to reverse this course of polluting the planet.
+Pollution is the biggest problem facing humanity right now. With over 8 billion people on this planet, the pollution problem is getting worse over time. We shall, at all costs, endeavor to reverse this course of polluting the planet.
 
 
 
