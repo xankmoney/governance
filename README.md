@@ -15,6 +15,6 @@ KR
 
 ## Xank의 창립 문서
 
-- [쟁크 분산 자율조직 헌장](xank-constitution_kr.md)
-- [통일 선언문](xank-declaration-of-unification_kr.md)
+- [Xank 탈중앙화 자율 조직 헌법](xank-constitution_kr.md)
+- [통합 선언문](xank-declaration-of-unification_kr.md)
 
